@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DiscreteLogger</string>
+    <string name="touch_anywhere_to_log_events">Press anywhere to log events</string>
+</resources>
